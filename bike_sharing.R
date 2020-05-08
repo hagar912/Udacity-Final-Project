@@ -36,6 +36,7 @@ summary(chi)
 summary(chi$Birth.Year)
 summary(chi$Trip.Duration)
 summary(chi$Start.Station)
+summary(chi$User.Type)
 
 ##summary for ny dataset
 head(ny['Start.Time'], 5)
