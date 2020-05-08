@@ -1,6 +1,6 @@
 # Explore-Bikeshare-Data Using R Language
 #### Udacity Project for Intro to Data science
-###### This project created on 8/5/2020
+###### This project created on 8/5/2020.
 In this project, you will see the usage of R to explore data related to bike share systems for three major cities in the United States (Chicago, New York City, and Washington).
 
 ### Bike Share Data
