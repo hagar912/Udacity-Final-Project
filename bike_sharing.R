@@ -1,3 +1,4 @@
+##Udacity bike sharing analysis using r lang
 ##calling for library
 install.packages('ggthemes', dependencies = TRUE)
 library(ggthemes)
@@ -36,6 +37,7 @@ summary(chi)
 summary(chi$Birth.Year)
 summary(chi$Trip.Duration)
 summary(chi$Start.Station)
+summary(chi$User.Type)
 
 ##summary for ny dataset
 head(ny['Start.Time'], 5)
